@@ -1,4 +1,6 @@
-int a, b, c, d
+int a, b, c, d, e
 read a, b
 c=a+b;
 print c
+e=a*b
+print e
