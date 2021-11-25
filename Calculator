@@ -1,4 +1,6 @@
-int a, b, c, d
+int a, b, c, d, f
 read a, b
 c=a+b;
+print c
+f = a/d
 print c
